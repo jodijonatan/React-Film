@@ -19,7 +19,7 @@ const SuperHero = () => {
               <Image src={hero1Image} alt="trending1" className="images" />
               <div className="bg-dark">
                 <div className="p-2 m-2 text-white">
-                  <Card.Title className=" text-center">FASTX</Card.Title>
+                  <Card.Title className=" text-center">BATMAN</Card.Title>
                   <Card.Text className=" text-left">
                     This is a wider card with natural lead-in to additional
                     content.
@@ -36,13 +36,13 @@ const SuperHero = () => {
               <Image src={hero2Image} alt="trending1" className="images" />
               <div className="bg-dark">
                 <div className="p-2 m-2 text-white">
-                  <Card.Title className=" text-center">FASTX</Card.Title>
+                  <Card.Title className=" text-center">SUPERMAN</Card.Title>
                   <Card.Text className=" text-left">
                     This is a wider card with natural lead-in to additional
                     content.
                   </Card.Text>
                   <Card.Text className="text-left">
-                    Last updated 3 mins ago
+                    Last updated 7 weeks ago
                   </Card.Text>
                 </div>
               </div>
@@ -53,13 +53,13 @@ const SuperHero = () => {
               <Image src={hero3Image} alt="trending1" className="images" />
               <div className="bg-dark">
                 <div className="p-2 m-2 text-white">
-                  <Card.Title className=" text-center">FASTX</Card.Title>
+                  <Card.Title className=" text-center">FLASH</Card.Title>
                   <Card.Text className=" text-left">
                     This is a wider card with natural lead-in to additional
                     content.
                   </Card.Text>
                   <Card.Text className="text-left">
-                    Last updated 3 mins ago
+                    Last updated 5 days ago
                   </Card.Text>
                 </div>
               </div>
@@ -70,13 +70,13 @@ const SuperHero = () => {
               <Image src={hero4Image} alt="trending1" className="images" />
               <div className="bg-dark">
                 <div className="p-2 m-2 text-white">
-                  <Card.Title className=" text-center">FASTX</Card.Title>
+                  <Card.Title className=" text-center">THOR</Card.Title>
                   <Card.Text className=" text-left">
                     This is a wider card with natural lead-in to additional
                     content.
                   </Card.Text>
                   <Card.Text className="text-left">
-                    Last updated 3 mins ago
+                    Last updated 2 years ago
                   </Card.Text>
                 </div>
               </div>
@@ -87,13 +87,15 @@ const SuperHero = () => {
               <Image src={hero5Image} alt="trending1" className="images" />
               <div className="bg-dark">
                 <div className="p-2 m-2 text-white">
-                  <Card.Title className=" text-center">FASTX</Card.Title>
+                  <Card.Title className=" text-center">
+                    CAPTAIN MARVEL
+                  </Card.Title>
                   <Card.Text className=" text-left">
                     This is a wider card with natural lead-in to additional
                     content.
                   </Card.Text>
                   <Card.Text className="text-left">
-                    Last updated 3 mins ago
+                    Last updated 16 days ago
                   </Card.Text>
                 </div>
               </div>
@@ -104,13 +106,15 @@ const SuperHero = () => {
               <Image src={hero6Image} alt="trending1" className="images" />
               <div className="bg-dark">
                 <div className="p-2 m-2 text-white">
-                  <Card.Title className=" text-center">FASTX</Card.Title>
+                  <Card.Title className=" text-center">
+                    CAPTAIN AMERIKA
+                  </Card.Title>
                   <Card.Text className=" text-left">
                     This is a wider card with natural lead-in to additional
                     content.
                   </Card.Text>
                   <Card.Text className="text-left">
-                    Last updated 3 mins ago
+                    Last updated 9 weeks ago
                   </Card.Text>
                 </div>
               </div>
