@@ -11,7 +11,7 @@ const SuperHero = () => {
     <div>
       <Container>
         <br />
-        <h1 className="text-white">SUPERHERO MOVIE</h1>
+        <h1 className="text-white">SUPERHERO</h1>
         <br />
         <Row>
           <Col md={4} className="movieWrapper" id="superhero">
